@@ -10,7 +10,7 @@ class Schedule extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Schedule'),
-          backgroundColor: Color.fromRGBO(177, 190, 255, 75),
+          backgroundColor: Color.fromARGB(181, 177, 255, 224),
         ),
         body: Row(
           children: [
