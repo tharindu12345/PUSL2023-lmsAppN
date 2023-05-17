@@ -6,10 +6,11 @@ import 'package:flutter_application_3/IOT.dart';
 import 'package:flutter_application_3/Java.dart';
 import 'package:flutter_application_3/MAD.dart';
 import 'package:flutter_application_3/QA.dart';
+import 'package:flutter_application_3/Schedule.dart';
 import 'package:flutter_application_3/Web.dart';
 
 void main() {
-  runApp(const ModulePage());
+  runApp(const Schedule());
 }
 
 class ModulePage extends StatefulWidget {
