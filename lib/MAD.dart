@@ -117,9 +117,37 @@ class MobilePage extends StatelessWidget {
               primary: Color.fromRGBO(255, 205, 177, 50),
             ),
           ),
+          SizedBox(height: 5.0),
           SizedBox(height: 20.0),
           SizedBox(height: 10.0),
-          
+          Container(
+            child: Align(
+              alignment: Alignment.bottomCenter,
+              child: Row(
+                children: [
+                  ElevatedButton(
+                    onPressed: () {
+                      // TODO: implement cancel functionality
+                    },
+                    style:
+                        ElevatedButton.styleFrom(primary: Colors.red.shade300),
+                    child: Text('Delete'),
+                  ),
+                  SizedBox(width: 10.0),
+                  ElevatedButton(
+                    onPressed: () {
+                      // TODO: implement submit functionality
+                    },
+                    style: ElevatedButton.styleFrom(
+                        primary: Colors.green.shade300),
+                    child: Text('Submit'),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          SizedBox(height: 20.0),
+          SizedBox(height: 10.0),
         ],
       ),
     );
