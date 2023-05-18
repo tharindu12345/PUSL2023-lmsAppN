@@ -1,16 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_3/Grade.dart';
 import 'package:flutter_application_3/GroupProject.dart';
 import 'package:flutter_application_3/IBMC.dart';
 import 'package:flutter_application_3/IMR.dart';
 import 'package:flutter_application_3/IOT.dart';
 import 'package:flutter_application_3/Java.dart';
+import 'LectureMaterialPage.dart';
 import 'package:flutter_application_3/MAD.dart';
 import 'package:flutter_application_3/QA.dart';
 import 'package:flutter_application_3/Schedule.dart';
 import 'package:flutter_application_3/Web.dart';
+import 'package:flutter_application_3/profile.dart';
+import 'LectureMad.dart';
+
+// import 'package:flutter_application_3/profile.dart';
 
 void main() {
-  runApp(const Schedule());
+  runApp(const Profile());
 }
 
 class ModulePage extends StatefulWidget {
@@ -36,6 +42,7 @@ class _ModulePageState extends State<ModulePage> {
         '/webApplication': (BuildContext context) => new WebPage(),
         '/imr': (context) => new IMRPage(),
         '/ibmc': (context) => new IBMCPage()
+        // '/scheMad':(context) => MobilePage()
       },
       debugShowCheckedModeBanner: false,
       home: Scaffold(
