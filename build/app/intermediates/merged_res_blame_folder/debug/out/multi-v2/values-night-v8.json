@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.flutter_application_3.app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.flutter_application_3.app-mergeDebugResources-16:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/a.stharinduumayanga/Documents/Flutter/1st app/test01/lmsApp/PUSL2023-lmsApp/android/app/src/main/res/values-night/styles.xml",
+                    "source": "C:\\Users\\Dell\\Documents\\Flutter\\lms\\lms git\\PUSL2023-lmsAppN - Copy\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "172,817",
+                        "startOffsets": "175,831",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "475,981"
+                        "endOffsets": "482,997"
                     },
                     "to": {
                         "startLines": "2,6",

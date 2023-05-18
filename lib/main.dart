@@ -8,9 +8,10 @@ import 'package:flutter_application_3/MAD.dart';
 import 'package:flutter_application_3/QA.dart';
 import 'package:flutter_application_3/Schedule.dart';
 import 'package:flutter_application_3/Web.dart';
+import 'package:flutter_application_3/login.dart';
 
 void main() {
-  runApp(const Schedule());
+  runApp(const Login());
 }
 
 class ModulePage extends StatefulWidget {

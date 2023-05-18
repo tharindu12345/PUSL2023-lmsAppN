@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515413108743",
+    "project_id": "lmstestone-cf446",
+    "storage_bucket": "lmstestone-cf446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515413108743:android:bd2371dbc352fd11ed62a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515413108743-tttul4vs9ae566cskov037houtairlkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpqumDqhzk6eU1eY4gq_MfujMaOnO9Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515413108743-tttul4vs9ae566cskov037houtairlkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

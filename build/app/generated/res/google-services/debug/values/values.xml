@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">515413108743-tttul4vs9ae566cskov037houtairlkj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">515413108743</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPpqumDqhzk6eU1eY4gq_MfujMaOnO9Io</string>
+    <string name="google_app_id" translatable="false">1:515413108743:android:bd2371dbc352fd11ed62a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPpqumDqhzk6eU1eY4gq_MfujMaOnO9Io</string>
+    <string name="google_storage_bucket" translatable="false">lmstestone-cf446.appspot.com</string>
+    <string name="project_id" translatable="false">lmstestone-cf446</string>
+</resources>
